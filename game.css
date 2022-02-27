@@ -1,0 +1,44 @@
+body
+{
+	background: teal;
+}
+
+	.login_div
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		
+		margin-top: 100px;
+		width: 700px;
+	}
+
+
+#player_1, #player_2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
+#h1{
+	color: white;
+}
